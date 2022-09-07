@@ -1,5 +1,5 @@
 ---
-title: Web technology for developers
+title: Web technology for developers José Junior de Oliveira 
 slug: Web
 tags:
   - Landing
